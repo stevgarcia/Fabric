@@ -1,4 +1,4 @@
-<img width="1174" height="531" alt="image" src="https://github.com/user-attachments/assets/4f4261b8-94e3-4e62-8640-4a254d324a1f" /># fabric-project
+# fabric-project
 Welcome to the ##Fabric analytics project##
 
 This project involves the creation of a medallion architecture based on notebooks and pyspark.The main data source is an API from the USGS that deliveres the data from earthquakes based on dates and geolocations.
