@@ -21,3 +21,6 @@ This project involves:
 5. **Gold layer**: A PySpark notebook that imports the reverse_geocoder library and runs in a customized workspace. The DataFrame is built from a table previously loaded in the Silver layer. Using latitude and longitude, it determines the corresponding country code. It creates a new column sig_class base on the earthquake magnitude. The final data is loaded to a gold table in lakehouse.
 6. **Analytics & Reporting**: a power BI report with a map is built based on the gold table.
 
+<img width="1045" height="745" alt="image" src="https://github.com/user-attachments/assets/e48a3495-dc29-462f-ac2d-1afabe55d635" />
+
+
